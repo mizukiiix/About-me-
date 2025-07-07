@@ -1,55 +1,57 @@
-# GitHub Docs <!-- omit in toc -->
-[![Build GitHub Docs On Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new/?repo=github)
 
-This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
 
-GitHub's Docs team works on pre-production content in a private repo that regularly syncs with this public repo.
+𝙰𝚖 𝙼𝚒𝚣𝚞𝚔𝚒! 
 
-Use the table of contents icon <img alt="Table of contents icon" src="./contributing/images/table-of-contents.png" width="25" height="25" /> on the top right corner of this document to navigate to a specific section quickly.
 
-## Contributing
 
-We accept different types of contributions, including some that don't require you to write a single line of code. For detailed instructions on how to get started with our project, see [About contributing to GitHub Docs](https://docs.github.com/en/contributing/collaborating-on-github-docs/about-contributing-to-github-docs).
+彡🌊 〰︎〰︎ 🎧
 
-### Ways to contribute
 
-On the GitHub Docs site, you can contribute by clicking the **Make a contribution** button at the bottom of the page to open a pull request for quick fixes like typos, updates, or link fixes.
+𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐬:
 
-You can also contribute by creating a local environment or opening a Codespace. For more information, see [Setting up your environment to work on GitHub Docs](https://docs.github.com/en/contributing/setting-up-your-environment-to-work-on-github-docs).
 
-<img alt="Contribution call-to-action" src="./contributing/images/contribution_cta.png" width="400">
+𝚔𝚙𝚘𝚙, 𝚔𝚍𝚛𝚊𝚖𝚊, 𝚊𝚗𝚒𝚖𝚎𝚜, 𝚐𝚊𝚖𝚎𝚜 𝚊𝚗𝚍.....𝚎𝚝𝚌.. 
 
-For more complex contributions, please [open an issue in the docs-content repo](https://github.com/github/docs-content/issues/new/choose) describing the changes you'd like to see.
 
-If you're looking for a way to contribute, you can scan through our [help wanted board](https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22) to find open issues already approved for work.
+𝐤𝐝𝐫𝐚𝐦𝐚𝐬 𝐈 𝐬𝐭𝐚𝐧: 
 
-### And that's it!
 
-If you're having trouble with your GitHub account, contact [Support](https://support.github.com).
+𝚜𝚝𝚛𝚊𝚗𝚐𝚎𝚛𝚜 𝚏𝚛𝚘𝚖 𝚑𝚎𝚕𝚕, 𝚠𝚎𝚊𝚔 𝚑𝚎𝚛𝚘 𝚌𝚕𝚊𝚜𝚜, 𝚜𝚝𝚞𝚍𝚢 𝚐𝚛𝚘𝚞𝚙, 𝚗𝚒𝚐𝚑𝚝 𝚑𝚊𝚜 𝚌𝚘𝚖𝚎, 𝚜𝚠𝚎𝚎𝚝 𝚑𝚘𝚖𝚎 𝚎𝚝𝚌. 
 
-That's how you can easily become a member of the GitHub Docs community. :sparkles:
 
-## READMEs
+𝐚𝐧𝐢𝐦𝐞𝐬 𝐈 𝐬𝐭𝐚𝐧: 
 
-In addition to the README you're reading right now, this repo includes other READMEs that describe the purpose of each subdirectory in more detail:
 
-- [content/README.md](content/README.md)
-- [content/graphql/README.md](content/graphql/README.md)
-- [content/rest/README.md](content/rest/README.md)
-- [contributing/README.md](contributing/README.md)
-- [data/README.md](data/README.md)
-- [data/reusables/README.md](data/reusables/README.md)
-- [data/variables/README.md](data/variables/README.md)
-- [src/README.md](src/README.md)
+𝚋𝚞𝚗𝚐𝚘 𝚜𝚝𝚛𝚊𝚢 𝚍𝚘𝚐𝚜, 𝚍𝚎𝚖𝚘𝚗 𝚜𝚕𝚊𝚢𝚎𝚛, 𝚋𝚕𝚊𝚌𝚔 𝚋𝚞𝚝𝚕𝚎𝚛, 𝚍𝚎𝚊𝚝𝚑 𝚗𝚘𝚝𝚎, 𝚙𝚎𝚛𝚏𝚎𝚌𝚝 𝚋𝚕𝚞𝚎, 𝚔𝚊𝚖𝚒𝚜𝚊𝚖𝚊 𝚔𝚒𝚜𝚜 𝚎𝚝𝚌. 
 
-## License
 
-The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
+𝐤𝐩𝐨𝐩 𝐢𝐝𝐨𝐥𝐬 𝐈 𝐬𝐭𝐚𝐧:
 
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+𝚈𝚘𝚘𝚗𝚐𝚒, 𝚜𝚞𝚗𝚘𝚘, 𝙵𝚎𝚕𝚒𝚡, 𝚂𝚘𝚘𝚋𝚒𝚗, 𝚛𝚘𝚜𝚎, 𝚃𝙾𝙿. 
 
-## Thanks :purple_heart:
 
-Thanks for all your contributions and efforts towards improving the GitHub documentation. We thank you for being part of our :sparkles: community :sparkles:!
+
+
+𝐤𝐢𝐧𝐬: 𝚊𝚑𝚗 𝚜𝚞-𝚑𝚘, 𝚐𝚎𝚞𝚖 𝚜𝚎𝚘𝚗𝚐-𝙹𝚎, 𝚌𝚑𝚊 𝚑𝚢𝚞𝚗-𝚜𝚞, 𝚜𝚎𝚘 𝚖𝚘𝚘𝚗-𝚓𝚘. 
+
+
+
+pls don't be afraid to int, even am away or busy. i might have a little weird humor and kins but am with pure intentions. feel free to talk with me I would always listen. plus don't mind me saying "am hungry" or "meow" very sec. 
+
+also feel free to play roblox or other games with me am obsessed with gaming. 
+
+
+
+
+that's all types for reading ♡♡ :D
+
+
+
+
+
+
+
+
+
+彡  ﹋  🌊
