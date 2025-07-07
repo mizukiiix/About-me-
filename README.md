@@ -44,7 +44,7 @@ also feel free to play roblox or other games with me am obsessed with gaming.
 
 
 
-that's all types for reading ♡♡ :D
+that's all tysm for reading ♡♡ :D
 
 
 
